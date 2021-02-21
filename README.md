@@ -1,5 +1,5 @@
 # kognitivassignment
-Bankend Assignment for SSE - Kognitiv
+Backend Assignment for SSE - Kognitiv
 
 
 
